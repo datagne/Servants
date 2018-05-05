@@ -3803,7 +3803,7 @@
     "rarity": "4",
     "attacks": "0102020303",
     "maxATK": "10,299",
-    "id": "199",
+    "id": "200",
     "name": "Asagami Fujino",
     "servantClass": "Archer",
     "cost": "12",
@@ -3817,5 +3817,24 @@
     "alignment": "Lawful Evil",
     "desc": "None",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nEvil Bone: 18\nArcher Monument: 4\nVoid's Dust: 16\nCursed Beast Cholecyst: 2\n\nArcher Monument: 10\nCursed Beast Cholecyst: 4\nTearstone of Blood: 6"
+  },
+  "201": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "10,546",
+    "id": "201",
+    "name": "Anastasia Nikolaevna Romanova",
+    "servantClass": "Caster",
+    "cost": "12",
+    "baseHP": "1,629",
+    "baseATK": "2,091",
+    "maxHP": "14,259",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2011.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=201",
+    "note": "None",
+    "NP": "(Arts) Viy Viy Viy\nSprint・Spirit Eyeballs\nDeal very strong damage to all enemies. [Level]\nApply Skill Seal to all enemies. (1 turn)\nDecrease the DEF of all enemies. (3 turns)[Overcharge]\nTarget: All Enemies",
+    "alignment": "Neutral Balanced",
+    "desc": "None",
+    "item": "Caster Piece: 5\n\nCaster Piece: 12\nVoid's Dust: 15\n\nCaster Monument: 5\nSeashell of Reminiscence: 10\nTearstone of Blood: 3\n\nCaster Monument: 12\nTearstone of Blood: 6\nPermafrost: 12"
   }
 }
