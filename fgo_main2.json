@@ -3779,5 +3779,24 @@
     "alignment": "Chaotic Balanced",
     "desc": "None",
     "item": "Dragon Fang: 10\n Seed of Yggdrasil: 10\n\nPhoenix Feather: 10\nMeteor Horseshoe: 10\n\nPrimordial Lanugo: 10\nSpirit Root: 10\n\nElegant Magatama: 10\nScarab of Wisdom: 10"
+  },
+  "199": {
+    "rarity": "5",
+    "attacks": "0102020203",
+    "maxATK": "11,309",
+    "id": "199",
+    "name": "Semiramis",
+    "servantClass": "Assassin",
+    "cost": "16",
+    "baseHP": "1,945",
+    "baseATK": "1,747",
+    "maxHP": "13,266",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1991.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=199",
+    "note": "Limited Unit\n",
+    "NP": "(Arts) Hanging Gardens of Babylon\nFloating Garden of Vanity\nDeal Heavy damage to all enemies\nIncrease all allies' DEF by 20%.[Level]\nIncrease your NP Strength. [Overcharge]\nTarget: All Enemies",
+    "alignment": "Lawful Evil",
+    "desc": "None",
+    "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nDragon Fang: 18\n\nAssassin Monument: 5\nStinger of Certain Death: 24\nSerpent Jewel: 4\n\nAssassin Monument: 12\nSerpent Jewel: 8\nScarab of Wisdom: 5"
   }
 }
