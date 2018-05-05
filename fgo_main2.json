@@ -75,6 +75,25 @@
     "desc": "Having been violated by the curse of the Holy Grail, the side of the King of Knights that persists in being heartless. Maybe, the ｢ideal king｣ that King Arthur pursued was something like that after all. Artoria used to contain her own power, but in this condition she wields powerful magical energy without hesitation.",
     "item": "Saber Piece: 4\n\nDragon Fang: 15\nSaber Piece: 10\n\nDragon's Reverse Scale: 2\nClaw of Chaos: 5\nSaber Monument: 4\n\nDragon's Reverse Scale: 4\nHeart of the Foreign God: 4\nSaber Monument: 10"
   },
+    "003.1": {
+    "rarity": "4",
+    "attacks": "0102020303",
+    "maxATK": "10,248",
+    "id": "003",
+    "name": "Salter",
+    "servantClass": "Saber",
+    "cost": "12",
+    "baseHP": "1,854",
+    "baseATK": "1,708",
+    "maxHP": "11,589",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0031.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=003",
+    "note": "Fuyuki must be completed before she becomes available as a Story Summon.\n",
+    "NP": "(Buster) Excalibur Morgan\nSword of Promised Victory\nDeal heavy damage to all enemies [Level]\nIncrease own NP gauge [Overcharge]\nTarget: All Enemies",
+    "alignment": "Lawful Evil",
+    "desc": "Having been violated by the curse of the Holy Grail, the side of the King of Knights that persists in being heartless. Maybe, the ｢ideal king｣ that King Arthur pursued was something like that after all. Artoria used to contain her own power, but in this condition she wields powerful magical energy without hesitation.",
+    "item": "Saber Piece: 4\n\nDragon Fang: 15\nSaber Piece: 10\n\nDragon's Reverse Scale: 2\nClaw of Chaos: 5\nSaber Monument: 4\n\nDragon's Reverse Scale: 4\nHeart of the Foreign God: 4\nSaber Monument: 10"
+  },
   "004": {
     "rarity": "4",
     "attacks": "0102020303",
