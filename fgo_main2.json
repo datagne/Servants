@@ -56,6 +56,25 @@
     "desc": "The legendary king of Britain, also known as the King of Knights. Artoria is her childhood name and, upon being raised as a king, she began to be called King Arthur. In an age when chivalry had lost its beauty, with a holy sword in her hands, she brought about a brief moment of peace and final prosperity to Britain. Historicaly recorded as a man, but it seems that in this world she was a cross-dressing beauty.",
     "item": "Saber Piece: 5\n\nDragon Fang: 18\nSaber Piece: 12\n\nPhoenix Feather: 4\nProof of Hero: 29\nSaber Monument: 5\n\nPhoenix Feather: 8\nDragon's Reverse Scale: 5\nSaber Monument: 12"
   },
+    "002.1": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "11,221",
+    "id": "002",
+    "name": "Seiba",
+    "servantClass": "Saber",
+    "cost": "16",
+    "baseHP": "2,222",
+    "baseATK": "1,734",
+    "maxHP": "15,150",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0021.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=002",
+    "note": "\n",
+    "NP": "(Buster) Excalibur\nSword of Promised Victory\nDeal heavy damage to all enemies [Level]\nIncrease own NP gauge [Overcharge]\nTarget: All Enemies",
+    "alignment": "Lawful Good",
+    "desc": "The legendary king of Britain, also known as the King of Knights. Artoria is her childhood name and, upon being raised as a king, she began to be called King Arthur. In an age when chivalry had lost its beauty, with a holy sword in her hands, she brought about a brief moment of peace and final prosperity to Britain. Historicaly recorded as a man, but it seems that in this world she was a cross-dressing beauty.",
+    "item": "Saber Piece: 5\n\nDragon Fang: 18\nSaber Piece: 12\n\nPhoenix Feather: 4\nProof of Hero: 29\nSaber Monument: 5\n\nPhoenix Feather: 8\nDragon's Reverse Scale: 5\nSaber Monument: 12"
+  },
   "003": {
     "rarity": "4",
     "attacks": "0102020303",
