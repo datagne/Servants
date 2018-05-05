@@ -3760,5 +3760,24 @@
     "alignment": "True Neutral",
     "desc": "None",
     "item": "Santa Mustache: 1\n\nSanta Mustache: 1\n\nSanta Mustache: 1\n\nSanta Mustache: 1"
+  },
+    "198": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "12,100",
+    "id": "198",
+    "name": "Katsushika Hokusai",
+    "servantClass": "Foreigner",
+    "cost": "16",
+    "baseHP": "1,940",
+    "baseATK": "1,870",
+    "maxHP": "13,230",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1981.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=198",
+    "note": "Limited Unit\n",
+    "NP": "(Arts) Fugaku Sanjuu Rokkei\nThirty-Six Views of Mount Fuji\nDeal significant damage to all enemies [Level]\nDeal extra damage against enemies of the Man attribute. [Overcharge]\nTarget: All Enemies",
+    "alignment": "Chaotic Balanced",
+    "desc": "None",
+    "item": "Dragon Fang: 10\n Seed of Yggdrasil: 10\n\nPhoenix Feather: 10\nMeteor Horseshoe: 10\n\nPrimordial Lanugo: 10\nSpirit Root: 10\n\nElegant Magatama: 10\nScarab of Wisdom: 10"
   }
 }
