@@ -4253,7 +4253,7 @@
     "NP": "(Quick) Tauropolos Skia Thermoplasia\nDark Sky-Eclipsing Shot\nDeal very strong damage to a single enemy. [Level]\nSeal Enemy's NP (1 turn)\n Apply Curse to the enemy (5 turns)[Overcharge]\nTarget: Single Enemy",
     "alignment": "Chaotic Evil",
     "desc": "Pending Translation",
-    "item": ""
+    "item": "Berserker Piece: 4\n\nBerserker Piece: 10\nSeed of Yggdrassil: 8\n\nBerserker Monument: 4\nBlack Beast Grease: 5\nSpirit Root: 2\n\nBerserker Monument: 10\nSpirit Root: 4\nPrimordial Lanugo: 6"
   },
   "203": {
     "rarity": "3",
@@ -4272,7 +4272,7 @@
     "NP": "(Buster) Golem Keter Malkuth\nCrown : Light of Wisdom\nDeal slightly heavy damage to all enemies. [Level]\n ncrease all allies' NP generation. (3 turns)[Overcharge]\nTarget: All Enemies",
     "alignment": "Neutral Balanced",
     "desc": "Pending Translation",
-    "item": ""
+    "item": "Caster Piece: 4\n\nCaster Piece: 8\nOctuplet Crystal: 5\n\nCaster Monument: 4\nHomunculus Baby: 7\nLamp of Sealed Evil: 2\n\nCaster Monument: 8\nLamp of Sealed Evil: 4\nScarab of Wisdom: 4"
   },
   "204": {
     "rarity": "3",
@@ -4291,7 +4291,7 @@
     "NP": "(Arts) Dio Santissimo Misericordia di Mi\nGod Almighty, Have Mercy on Me\nDeal heavy damage to all enemies [Level]\nDecrease Arts Card Resist (3 turns) [Overcharge]\nDecrease Critical Star Drop rate of all allies (3 turns) [Demerit]\nTarget: All Enemies",
     "alignment": "Chaotic Evil",
     "desc": "Pending Translation",
-    "item": "Rider Gem: 5\n\nRider Gem: 12\n\nMagic Rider Gem: 5\n\nMagic Rider Gem: 12 Eternal Gear: 5\n\nSecret Rider Gem: 5 Eternal Gear: 10\n\nSecret Rider Gem: 12 Proof of Hero: 15\n\nProof of Hero: 29 Meteor Horseshoe: 6\n\nMeteor Horseshoe: 18 Heart of the Foreign God: 10\n\nCrystallized Lore: 1"
+    "item": "Spirit Dust: 8\nEvil Bone: 8\n\nForbidden Page: 8\nEternal Gear: 8\n\nGhost Lantern: 8\nLamp of Sealed Evil: 8\n\nHeart of the Foreign God: 8\nTearstone of Blood: 8"
   },
   "205": {
     "rarity": "5",
@@ -4310,7 +4310,7 @@
     "NP": "(Buster) Zveri Krestniy Hod\nBeast Companion From My Journey\nIncrease own NP Strength [Overcharge]\nDeal heavy damage to all enemies[Level]\nDecrease Buster Card Resist (3 Turns)\nTarget: All Enemies",
     "alignment": "Lawful Evil/Chaotic Evil",
     "desc": "Pending Translation",
-    "item": "Rider Gem: 5\n\nRider Gem: 12\n\nMagic Rider Gem: 5\n\nMagic Rider Gem: 12 Eternal Gear: 5\n\nSecret Rider Gem: 5 Eternal Gear: 10\n\nSecret Rider Gem: 12 Proof of Hero: 15\n\nProof of Hero: 29 Meteor Horseshoe: 6\n\nMeteor Horseshoe: 18 Heart of the Foreign God: 10\n\nCrystallized Lore: 1"
+    "item": "Rider Piece: 5\n\nRider Piece: 12\nEvil Bone: 22\n\nRider Monument: 5\nMeteor Horseshoe: 10\nPrimordial Lanugo: 3\n\nRider Monument: 12\nPrimordial Lanugo: 6\nCursed Beast Gallstone: 5"
   },
   "206": {
     "rarity": "5",
@@ -4329,7 +4329,7 @@
     "NP": "(Quick) Troias Tragoidia\nTempestuous Immortal Chariot\nIncrease Quick Card effectiveness (1 turn)[Overcharge]\nDeal heavy damage to all enemies [Level]\nTarget: All Enemies",
     "alignment": "Lawful Neutral",
     "desc": "Pending Translation",
-    "item": "Rider Gem: 5\n\nRider Gem: 12\n\nMagic Rider Gem: 5\n\nMagic Rider Gem: 12 Eternal Gear: 5\n\nSecret Rider Gem: 5 Eternal Gear: 10\n\nSecret Rider Gem: 12 Proof of Hero: 15\n\nProof of Hero: 29 Meteor Horseshoe: 6\n\nMeteor Horseshoe: 18 Heart of the Foreign God: 10\n\nCrystallized Lore: 1"
+    "item": "Rider Piece: 5\n\nRider Piece: 12\nProof of Hero: 22\n\nRider Monument: 5\nEternal Gear: 10\nWarhorse's Young Horn: 3\n\nRider Monument: 12\nWarhorse's Young Horn: 6\nPhoenix Feather: 10"
   },
   "207": {
     "rarity": "4",
@@ -4348,7 +4348,7 @@
     "NP": "(Arts) Antares Snipe\nScorpion Shot\nRemove DEF buffs from a single enemy.\nDeal significant damage to a single enemy [Level]\nDecrease Critical Hit Rate [Overcharge]\nTarget: Enemy",
     "alignment": "Lawful Good",
     "desc": "Pending Translation",
-    "item": "Archer Gem: 4\n\nArcher Gem: 10\n\nMagic Archer Gem: 4\n\nMagic Archer Gem: 10 Forbidden Page: 4\n\nSecret Caster Gem: 4 Forbidden Page: 8\n\nSecret Gem of Caster: 10 Meteor Horseshoe:4\n\nMeteor Horseshoe: 8 Serpent Jewel: 4\n\nSerpent Jewel: 12 Deadly Poison Stinger: 48\n\nCrystallized Lore: 1"
+    "item": "Archer Piece: 4\n\nArcher Piece: 10\nMeteor Horseshoe: 6\n\nArcher Monument: 4\nForbidden Page: 8\nSpirit Root: 2\n\nArcher Monument: 10\nSpirit Root: 4\nScarab of Wisdom: 4"
   },
   "208": {
     "rarity": "4",
@@ -4367,6 +4367,6 @@
     "NP": "(Arts) Akafiloga Argries\nScorching Dragon Breath/\nMelting the Entire Terrain\nDecrease DEF of all enemies (3 turns) [Overcharge]\nDeal heavy dmaage to all enemies [Level]\nTarget: All Enemies",
     "alignment": "Lawful Good",
     "desc": "Cardboard",
-    "item": "Caster Gem: 4\n\nCaster Gem: 10\n\nMagic Caster Gem: 4\n\nMagic Caster Gem: 10 Dragon Fang: 10\n\nSecret Caster Gem: 4 Dragon Fang: 20\n\nSecret Gem of Caster: 10 Great Knight Medal: 8\n\nGreat Knight Medal: 16 Heart of the Foreign God: 2\n\nHear of the Foreign God: 6 Dragon's Reverse Scale: 8\n\nCrystallized Lore: 1"
+    "item": "Forgotten Leaf :1\n\nForgotten Leaf: 1\n\nForgotten Leaf: 1\n\nForgotten Leaf: 1"
   }
 }
