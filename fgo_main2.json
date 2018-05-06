@@ -1994,6 +1994,25 @@
     "desc": "A brave warrior from Celtic, Ulster mythology. A member of the Knights of the Red Branch and the strongest warrior in Ulster, a hero who won fame by employing the invincible magic spear received from the leader of the underworld Scáthach. Unlike normal, he has manifested as a Berserker. By some sort of cause, the equipment all over his body has changed and his personality inverted.",
     "item": "Berserker Piece: 5\n\nBerserker Piece: 12\nEvil Bone: 22\n\nBerserker Monument: 5\nClaw of Chaos: 6\nHeart of the Foreign God: 2\n\nBerserker Monument: 12\nHeart of the Foreign God: 4\nTearstone of Blood: 8"
   },
+  "098.1": {
+    "rarity": "5",
+    "attacks": "0102030303",
+    "maxATK": "12,805",
+    "id": "098",
+    "name": "Cuzilla",
+    "servantClass": "Berserker",
+    "cost": "16",
+    "baseHP": "1,790",
+    "baseATK": "1,979",
+    "maxHP": "12,210",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0981.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=098",
+    "note": "E Pluribus Unum must be completed before he becomes available as a Story Summon.\n",
+    "NP": "(Buster) Curruid Coinchenn\nBeast of Crunching Death Fangs\nIncrease ATK (1 turn) [Overcharge]\nIncrease DEF (1 turn) [Overcharge]\nDeal significant damage to a single enemy [Level]\nTarget: Self / Enemy",
+    "alignment": "Chaotic Evil",
+    "desc": "A brave warrior from Celtic, Ulster mythology. A member of the Knights of the Red Branch and the strongest warrior in Ulster, a hero who won fame by employing the invincible magic spear received from the leader of the underworld Scáthach. Unlike normal, he has manifested as a Berserker. By some sort of cause, the equipment all over his body has changed and his personality inverted.",
+    "item": "Berserker Piece: 5\n\nBerserker Piece: 12\nEvil Bone: 22\n\nBerserker Monument: 5\nClaw of Chaos: 6\nHeart of the Foreign God: 2\n\nBerserker Monument: 12\nHeart of the Foreign God: 4\nTearstone of Blood: 8"
+  },
   "099": {
     "rarity": "5",
     "attacks": "0102020303",
