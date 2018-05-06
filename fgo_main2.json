@@ -511,6 +511,25 @@
     "alignment": "Chaotic Neutral",
     "desc": "The nation building hero from Rome's foundation myth. Born from the God of War Mars and the beautiful princess Silvia, it has been said that he was raised with a beast of god, a wolf, as a friend. The King of Nation Founding who laid the foundations of the ever glorious, great empire of Rome that absorbed the Mediterranean nations. The deep crimson divine ancestor.",
     "item": "Lancer Piece: 4\n\nOctuplet Crystals: 5\nLancer Piece: 8\n\nPhoenix Feather: 6\nEvil Bone: 10\nLancer Monument: 4\n\nVoid's Dust: 16\nEvil Bone: 20\nLancer Monument: 8\n"
+  }, 
+  "022.1": {
+    "rarity": "3",
+    "attacks": "0101020303",
+    "maxATK": "7,239",
+    "id": "022",
+    "name": "ROMA",
+    "servantClass": "Lancer",
+    "cost": "7",
+    "baseHP": "1,779",
+    "baseATK": "1,344",
+    "maxHP": "9,883",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0221.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=022",
+    "note": "\n",
+    "NP": "(Buster) Magna Voluisse Magnum\nAll Things Lead to My Spear \nDeal heavy damage to all enemies [Level]\nIncrease ATK of all allies (3 turns) [Overcharge]\nTarget: All Enemies / All Allies",
+    "alignment": "Chaotic Neutral",
+    "desc": "The nation building hero from Rome's foundation myth. Born from the God of War Mars and the beautiful princess Silvia, it has been said that he was raised with a beast of god, a wolf, as a friend. The King of Nation Founding who laid the foundations of the ever glorious, great empire of Rome that absorbed the Mediterranean nations. The deep crimson divine ancestor.",
+    "item": "Lancer Piece: 4\n\nOctuplet Crystals: 5\nLancer Piece: 8\n\nPhoenix Feather: 6\nEvil Bone: 10\nLancer Monument: 4\n\nVoid's Dust: 16\nEvil Bone: 20\nLancer Monument: 8\n"
   },
   "023": {
     "rarity": "3",
