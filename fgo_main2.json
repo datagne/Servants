@@ -4215,7 +4215,7 @@
     "NP": "(Buster) Yuishiki・Waikyoku no Magan\nVijnaptimatrata: Mystic Eyes of Distortion\nDeal very strong damage to a single enemy. [Level]\nInflict Nullify Buff to a single enemy.\nDecreases the enemy's attack (3 turns)[Overcharge]\nTarget: One Enemy",
     "alignment": "Lawful Evil",
     "desc": "None",
-    "item": "Archer Piece: 4\n\nArcher Piece: 10\nEvil Bone: 18\nArcher Monument: 4\nVoid's Dust: 16\nCursed Beast Cholecyst: 2\n\nArcher Monument: 10\nCursed Beast Cholecyst: 4\nTearstone of Blood: 6"
+    "item": "Archer Piece: 4\n\nArcher Piece: 10\nEvil Bone: 18\n\nArcher Monument: 4\nVoid's Dust: 16\nCursed Beast Cholecyst: 2\n\nArcher Monument: 10\nCursed Beast Cholecyst: 4\nTearstone of Blood: 6"
   },
   "201": {
     "rarity": "5",
@@ -4278,7 +4278,7 @@
     "rarity": "3",
     "attacks": "0102020303",
     "maxATK": "8,125",
-    "id": "205",
+    "id": "204",
     "name": "Antonio Salieri",
     "servantClass": "Avenger",
     "cost": "7",
