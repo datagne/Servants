@@ -4406,5 +4406,24 @@
     "alignment": "Lawful Good",
     "desc": "Cardboard",
     "item": "Forgotten Leaf :1\n\nForgotten Leaf: 1\n\nForgotten Leaf: 1\n\nForgotten Leaf: 1"
+  },
+    "209": {
+    "rarity": "5",
+    "attacks": "0101020303",
+    "maxATK": "12,465",
+    "id": "209",
+    "name": "Okita Souji (Alter)",
+    "servantClass": "Alterego",
+    "cost": "16",
+    "baseHP": "1,862",
+    "baseATK": "1,926",
+    "maxHP": "12,696",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2091.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=209",
+    "note": "Limited pickup summon only.\n",
+    "NP": "(Buster) Zekken - Mukyuu Sandan\nAbsolute Blade - Three Steps of Eternity A\nPowerful attack on all enemies\nLowers the enemy's buster card resistance (3 turns) [Overcharge]\nTarget: All Enemies",
+    "alignment": "Neutral Balanced",
+    "desc": "Also known as: Majin Saber",
+    "item": "Saber piece :5\nAssassin piece :5\n\nSaber piece :12\nAssassin piece :12\n\nSaber monument :5\nAssassin monument :5\n\nSaber monument :12\nAssassin monument :5"
   }
 }
