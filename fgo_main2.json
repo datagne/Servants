@@ -4424,6 +4424,25 @@
     "NP": "(Buster) Zekken - Mukyuu Sandan\nAbsolute Blade - Three Steps of Eternity A\nPowerful attack on all enemies\nLowers the enemy's buster card resistance (3 turns) [Overcharge]\nTarget: All Enemies",
     "alignment": "Neutral Balanced",
     "desc": "Also known as: Majin Saber",
-    "item": "Saber piece :5\nAssassin piece :5\n\nSaber piece :12\nAssassin piece :12\n\nSaber monument :5\nAssassin monument :5\n\nSaber monument :12\nAssassin monument :5"
+    "item": "Saber piece :5\nAssassin piece :5\n\nSaber piece :12\nAssassin piece :12\n\nSaber monument :5\nAssassin monument :5\n\nSaber monument :12\nAssassin monument :12"
+  },
+      "210": {
+    "rarity": "3",
+    "attacks": "0101020203",
+    "maxATK": "6,879",
+    "id": "210",
+    "name": "Okada Izou",
+    "servantClass": "Assassin",
+    "cost": "7",
+    "baseHP": "1,592",
+    "baseATK": "1,277",
+    "maxHP": "8,844",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2101.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=210",
+    "note": "\n",
+    "NP": "(Arts) Shimatsuken\nBlade of Settlement\nDeal significant damage to a single enemy.\nIncrease your Critical Star Drop Rate. (3 turns) [Overcharge]\nTarget: Single Target",
+    "alignment": "Neutral Evil",
+    "desc": "\n",
+    "item": "Assassin piece :4\n\nAssassin piece :8\nEvil bone :15\n\nAssassin monument :4\nElegant Magatama :7\nFool's chain :10\n\Assassin monument :8\nFool's chain :20\nBizarre godly wine :4"
   }
 }
