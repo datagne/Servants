@@ -4443,6 +4443,25 @@
     "NP": "(Arts) Shimatsuken\nBlade of Settlement\nDeal significant damage to a single enemy.\nIncrease your Critical Star Drop Rate. (3 turns) [Overcharge]\nTarget: Single Target",
     "alignment": "Neutral Evil",
     "desc": "\n",
-    "item": "Assassin piece :4\n\nAssassin piece :8\nEvil bone :15\n\nAssassin monument :4\nElegant Magatama :7\nFool's chain :10\n\Assassin monument :8\nFool's chain :20\nBizarre godly wine :4"
+    "item": "Assassin piece :4\n\nAssassin piece :8\nEvil bone :15\n\nAssassin monument :4\nElegant Magatama :7\nFool's chain :10\n\nAssassin monument :8\nFool's chain :20\nBizarre godly wine :4"
+  },
+        "211": {
+    "rarity": "4",
+    "attacks": "0102020303",
+    "maxATK": "8,555",
+    "id": "211",
+    "name": "Sakamoto Ryouma",
+    "servantClass": "Rider",
+    "cost": "12",
+    "baseHP": "1,900",
+    "baseATK": "1,425",
+    "maxHP": "11,880",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2111.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=211",
+    "note": "GUDAGUDA Mystery of the Imperial Capital's Holy Grail event only\n",
+    "NP": "(Arts) Ama Kakeru Ryuu ga Gotoku\nLike a Soaring Dragon EX\nDeal significant damage to a single enemy.\nChance to remove one NP charge to the enemy. [Overcharge]\nTarget: Single Target",
+    "alignment": "Neutral Balanced",
+    "desc": "\n",
+    "item": "Maritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1"
   }
 }
