@@ -4423,7 +4423,7 @@
     "note": "Limited pickup summon only.\n",
     "NP": "(Buster) Zekken - Mukyuu Sandan\nAbsolute Blade - Three Steps of Eternity A\nPowerful attack on all enemies\nLowers the enemy's buster card resistance (3 turns) [Overcharge]\nTarget: All Enemies",
     "alignment": "Neutral Balanced",
-    "desc": "Also known as: Majin Saber",
+    "desc": "Pending translation",
     "item": "Saber piece :5\nAssassin piece :5\n\nSaber piece :12\nAssassin piece :12\n\nSaber monument :5\nAssassin monument :5\n\nSaber monument :12\nAssassin monument :12"
   },
       "210": {
@@ -4442,7 +4442,7 @@
     "note": "\n",
     "NP": "(Arts) Shimatsuken\nBlade of Settlement\nDeal significant damage to a single enemy.\nIncrease your Critical Star Drop Rate. (3 turns) [Overcharge]\nTarget: Single Target",
     "alignment": "Neutral Evil",
-    "desc": "\n",
+    "desc": "Pending translation",
     "item": "Assassin piece :4\n\nAssassin piece :8\nEvil bone :15\n\nAssassin monument :4\nElegant Magatama :7\nFool's chain :10\n\nAssassin monument :8\nFool's chain :20\nBizarre godly wine :4"
   },
         "211": {
@@ -4461,7 +4461,7 @@
     "note": "GUDAGUDA Mystery of the Imperial Capital's Holy Grail event only\n",
     "NP": "(Arts) Ama Kakeru Ryuu ga Gotoku\nLike a Soaring Dragon EX\nDeal significant damage to a single enemy.\nChance to remove one NP charge to the enemy. [Overcharge]\nTarget: Single Target",
     "alignment": "Neutral Balanced",
-    "desc": "\n",
+    "desc": "Pending translation",
     "item": "Maritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1"
   }
 }
