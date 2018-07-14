@@ -4463,5 +4463,24 @@
     "alignment": "Neutral Balanced",
     "desc": "Pending translation",
     "item": "Maritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1\n\nMaritime Support group's flag :1"
+  },
+	  "212": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "12,033",
+    "id": "212",
+    "name": "Napoleon",
+    "servantClass": "Archer",
+    "cost": "16",
+    "baseHP": "1,920",
+    "baseATK": "1,859",
+    "maxHP": "13,097",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2121.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=212",
+    "note": "\n",
+    "NP": "Arc de Triomphe de l'Étoile\nRainbow Bow Regaling the Triumphant A\nDeal high damage DEF-ignoring to all enemies.\nDeals extra damage against Divine enemies. [Overcharge]\n Target: All Enemies",
+    "alignment": "Neutral Good",
+    "desc": "Pending translation",
+    "item": "Archer piece :5\n\nArcher piece :12\nProof of hero :22\n\nArcher monument :5\nVolatile gunpowder :29\nWarhorse's young horn :3\n\nArcher monument :12\nWarhorse's young horn :6\nScarab of wisdom :5"
   }
 }
