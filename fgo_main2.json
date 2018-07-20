@@ -4440,7 +4440,7 @@
     "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2101.png",
     "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=210",
     "note": "\n",
-	  "NP": "(Arts) Shimatsuken\nBlade of Settlement\nDeal significant damage to a single enemy.\nIncrease your Critical Star Drop Rate. (3 turns) [Overcharge]\nTarget: Single Target",
+    "NP": "(Arts) Shimatsuken\nBlade of Settlement\nDeal significant damage to a single enemy.\nIncrease your Critical Star Drop Rate. (3 turns) [Overcharge]\nTarget: Single Target",
     "alignment": "Neutral Evil",
     "desc": "Pending translation",
     "item": "Assassin piece :4\n\nAssassin piece :8\nEvil bone :15\n\nAssassin monument :4\nElegant Magatama :7\nFool's chain :10\n\nAssassin monument :8\nFool's chain :20\nBizarre godly wine :4"
@@ -4482,5 +4482,43 @@
     "alignment": "Neutral Good",
     "desc": "Pending translation",
     "item": "Archer piece :5\n\nArcher piece :12\nProof of hero :22\n\nArcher monument :5\nVolatile gunpowder :29\nWarhorse's young horn :3\n\nArcher monument :12\nWarhorse's young horn :6\nScarab of wisdom :5"
-  }
+  },
+ "213": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "12,465",
+    "id": "213",
+    "name": "Sigurd",
+    "servantClass": "Saber",
+    "cost": "16",
+    "baseHP": "1,926",
+    "baseATK": "2,049",
+    "maxHP": "13,975",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2131.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=213",
+    "note": "Limited Pickup Summon Only\n",
+    "NP": "Bergwerk Gram\nHeaven's Wheel of Destruction\nDeal damage to a single enemy.\nDeals extra damage against Dragon enemies. [Overcharge]\nTarget: One Enemy",
+    "alignment": "Neutral Good",
+    "desc": "Pending translation",
+    "item": "Saber Piece :5\n\nSaber Piece :12\nDragon Fang :18\n\nSaber Monument :5\nMeteor Horseshoe :10\nLamp of Evil-Sealing :3\n\nSaber Monument :12\nLamp of Evil-Sealing :6\nDragon's Reverse Scale :5"
+  },
+ "214": {
+    "rarity": "4",
+    "attacks": "0101020303",
+    "maxATK": "8,037",
+    "id": "214",
+    "name": "Valkyrie",
+    "servantClass": "Lancer",
+    "cost": "12",
+    "baseHP": "2,244",
+    "baseATK": "1,339",
+    "maxHP": "14,025",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2141.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=214",
+    "note": "\n",
+    "NP": "Ragnarok Leifdrasir\Illusion of the End - Girl's Descent B\nApply Sure Hit on yourself (1 turn) [Activates first]\nDeal heavy damage to all enemies.\nChance to inflict Death to Demonic enemy [Overcharge]\nTarget: All enemies",
+    "alignment": "Lawful Good",
+    "desc": "Pending translation",
+    "item": "Lancer Piece :4\n\nLancer Piece :10\nSeed of Yggdrasil :8\n\nLancer Monument :4\nProof of Hero :24\nPhoenix Feather :4\n\nLancer Monument :10\nPhoenix Feather :7\nAurora Steel :10"
+  },
 }
