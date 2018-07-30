@@ -4558,5 +4558,24 @@
     "alignment": "Lawful Good",
     "desc": "Pending translation",
     "item": "Lancer Piece :4\n\nLancer Piece :10\nSeed of Yggdrasil :8\n\nLancer Monument :4\nProof of Hero :24\nPhoenix Feather :4\n\nLancer Monument :10\nPhoenix Feather :7\nAurora Steel :10"
+  },
+ "215": {
+    "rarity": "5",
+    "attacks": "0101020203",
+    "maxATK": "10,753",
+    "id": "215",
+    "name": "Skadi",
+    "servantClass": "Caster",
+    "cost": "16",
+    "baseHP": "2,112",
+    "baseATK": "1,661",
+    "maxHP": "14,406",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2151.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=215",
+    "note": "Limited Pickup Summon Only.\n",
+    "NP": "Gate of Skye\nGate to the Demonic Realm overflowing with Death A+\nIncrease Critical Rate for all allies. (3 times, 5 turns)\nApply Death Resist to all allies. (1 time, 3 turns)\nApply Evade to all allies. (1 hit, 3 turns)\nApply Damage Cut to all allies. (3 turns) [Overcharge]\nTarget: All allies",
+    "alignment": "Lawful Good",
+    "desc": "Pending translation",
+    "item": "Caster Piece :5\n\nCaster Piece :12\nPrimordial Lanugo :5\n\nCaster Monument :5\nPermafrost :10\nHeart of the Foreign God :2\n\nCaster Monument :12\nHeart of the Foreign God :4\nGiant's Ring :12"
   }
 }
