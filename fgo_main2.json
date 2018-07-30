@@ -4046,6 +4046,25 @@
     "desc": "Unlocked by clearing a certain quest",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nSeed of Yggdrassil: 9\n\nAssassin Monument: 5\nVoid's Dust: 20\nForbidden Page: 5\n\nAssassin Monument: 12\nForbidden Page: 10\nSpirit Root: 5"
   },
+"189.1": {
+    "rarity": "5",
+    "attacks": "0101020203",
+    "maxATK": "10,824",
+    "id": "189",
+    "name": "neethime",
+    "servantClass": "Assassin",
+    "cost": "16",
+    "baseHP": "2,027",
+    "baseATK": "1,672",
+    "maxHP": "13,822",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1891.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=189",
+    "note": "\n",
+    "NP": "(Quick) Hakurojou no Hyakkihachi Tendou-sama\nHundred Demons and Eight Heavens of the White Heron Castle\nIncrease DEF (3 turns)\nIncrease Quick Card effectiveness (3 turn) [Overcharge]\nIncrease Max HP (3 turns) [Level]\nTarget: All Allies",
+    "alignment": "Chaotic Neutral",
+    "desc": "Unlocked by clearing a certain quest",
+    "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nSeed of Yggdrassil: 9\n\nAssassin Monument: 5\nVoid's Dust: 20\nForbidden Page: 5\n\nAssassin Monument: 12\nForbidden Page: 10\nSpirit Root: 5"
+  },
   "190": {
     "rarity": "4",
     "attacks": "0102030303",
