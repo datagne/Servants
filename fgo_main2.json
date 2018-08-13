@@ -4615,5 +4615,24 @@
     "alignment": "Lawful Summer",
     "desc": "Pending translation",
     "item": "Archer Piece :5\n\nArcher Piece :12\nPermafrost :8\n\nArcher Monument :5\nShell of Reminiscence :10\nAurora Steel :5\n\nArcher Monument :12\nAurora Steel :10\nScarab of Wisdom :5"
+  },
+"217": {
+    "rarity": "7",
+    "attacks": "0101020303",
+    "maxATK": "9,133",
+    "id": "217",
+    "name": "Summer Ikaraki-Douji",
+    "servantClass": "Lancer",
+    "cost": "12",
+    "baseHP": "1,976",
+    "baseATK": "1,522",
+    "maxHP": "12,354",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2171.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=217",
+    "note": "Limited Pickup Summon Only.\n",
+    "NP": "Encomium Moriae\nThe Praise of Folly・Ichijou Bridge B++\nDeal DEF-ignoring damage to one enemy.\nDecrease own Star Drop Rate by 50% (3 turns) [Demerit].\nGain Critical Stars [Overcharge]\nTarget: One Enemy",
+    "alignment": "Chaotic Evil",
+    "desc": "Pending translation",
+    "item": "Lancer Piece :4\n\nLancer Piece :10\nEvil Bone :18\n\nLancer Monument :4\nLamp of Evil Sealing :5\nBlack Beast Grease :3\n\nLancer Monument :10\nBlack Beast Grease :5\nBizarre Godly Wine :4"
   }
 }
