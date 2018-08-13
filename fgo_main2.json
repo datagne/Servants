@@ -4653,5 +4653,24 @@
     "alignment": "Neutral Summer",
     "desc": "Pending translation",
     "item": "Assassin Piece :4\n\nAssassom Piece :10\nSeed of Yggdrasil :8\n\nAssassin Monument :4\nElegant Magatama :8\nWarhorse's Young Horn :3\n\nAssassin Monument :10\nWarhorse's Young Horn :5\nCursed Beast Gallstone :4"
+  },
+"219": {
+    "rarity": "4",
+    "attacks": "0102030303",
+    "maxATK": "10,298",
+    "id": "219",
+    "name": "Summer Jeanne D'Arc (Berserker Alter)",
+    "servantClass": "Berserker",
+    "cost": "12",
+    "baseHP": "1,587",
+    "baseATK": "1,716",
+    "maxHP": "9,922",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2191.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=219",
+    "note": "Summer 3 Welfare Servant\n",
+    "NP": "Völkermord Feuerdrache\nIncinerated Heaven's Law - Dragon of Extermination A+\nDeal damage to one enemy.\nInflict Burn. (3 turns) [Overcharge]\nTargets: One Enemy",
+    "alignment": "Chaotic Summer",
+    "desc": "Pending translation",
+    "item": "Jet-Black Quill: 1\n\nJet-Black Quill: 1\n\nJet-Black Quill: 1\n\nJet-Black Quill: 1"
   }
 }
