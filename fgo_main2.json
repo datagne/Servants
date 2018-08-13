@@ -4596,5 +4596,24 @@
     "alignment": "Lawful Good",
     "desc": "Pending translation",
     "item": "Caster Piece :5\n\nCaster Piece :12\nPrimordial Lanugo :5\n\nCaster Monument :5\nPermafrost :10\nHeart of the Foreign God :2\n\nCaster Monument :12\nHeart of the Foreign God :4\nGiant's Ring :12"
+  },
+ "216": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "10,525",
+    "id": "216",
+    "name": "Summer Jeanne D'Arc",
+    "servantClass": "Archer",
+    "cost": "16",
+    "baseHP": "2,309",
+    "baseATK": "1,626",
+    "maxHP": "15,743",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2161.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=216",
+    "note": "Limited Pickup Summon Only.\n",
+    "NP": "Des Océans d'Allégresse\nAs the Ocean Gets Abundant, We Get to Delight in It A+\nDeal damage to all enemies.\nGain Critical Stars each turn (3 turns) [Overcharge]\nTarget: All enemies",
+    "alignment": "Lawful Summer",
+    "desc": "Pending translation",
+    "item": "Archer Piece :5\n\nArcher Piece :12\nPermafrost :8\n\nArcher Monument :5\nShell of Reminiscence :10\nAurora Steel :5\n\nArcher Monument :12\nAurora Steel :10\nScarab of Wisdom :5"
   }
 }
