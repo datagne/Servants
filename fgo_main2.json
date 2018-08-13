@@ -4617,7 +4617,7 @@
     "item": "Archer Piece :5\n\nArcher Piece :12\nPermafrost :8\n\nArcher Monument :5\nShell of Reminiscence :10\nAurora Steel :5\n\nArcher Monument :12\nAurora Steel :10\nScarab of Wisdom :5"
   },
 "217": {
-    "rarity": "7",
+    "rarity": "4",
     "attacks": "0101020303",
     "maxATK": "9,133",
     "id": "217",
@@ -4634,5 +4634,24 @@
     "alignment": "Chaotic Evil",
     "desc": "Pending translation",
     "item": "Lancer Piece :4\n\nLancer Piece :10\nEvil Bone :18\n\nLancer Monument :4\nLamp of Evil Sealing :5\nBlack Beast Grease :3\n\nLancer Monument :10\nBlack Beast Grease :5\nBizarre Godly Wine :4"
+  }
+"218": {
+    "rarity": "4",
+    "attacks": "0101010203",
+    "maxATK": "9,456",
+    "id": "218",
+    "name": "Summer Ushiwakamaru",
+    "servantClass": "Assassin",
+    "cost": "12",
+    "baseHP": "1,692",
+    "baseATK": "1,576",
+    "maxHP": "10,580",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2181.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=218",
+    "note": "Limited Pickup Summon Only.\n",
+    "NP": "Tengu no Hauchiwa - Akarashimakaze\nGale of the Tengu's Feather Fan B\nDeal damage to all enemies.\nDispel all Attack Up buffs.\nInflict Quick Card Resistance Down (3 turns). [Overcharge]\nTarget: All Enemies",
+    "alignment": "Neutral Summer",
+    "desc": "Pending translation",
+    "item": "Assassin Piece :4\n\nAssassom Piece :10\nSeed of Yggdrasil :8\n\nAssassin Monument :4\nElegant Magatama :8\nWarhorse's Young Horn :3\n\nAssassin Monument :10\nWarhorse's Young Horn :5\nCursed Beast Gallstone :4"
   }
 }
