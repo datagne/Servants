@@ -2488,6 +2488,25 @@
     "desc": "The legendary King of Knights who controlled Britain, King Arthur. An IF King Arthur who, after rising as a king, made the holy spear its main weapon instead of the holy sword and governed over Britain. Having lost the growth-halt from the holy sword, she grew to a physical age fitting for a king. She became an existence closer to Divine Spirits due to using the holy spear, but since the period of use was just that of ten-odd years, her mental structure and spiritual make-up has not changed too much.",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nDragon Fang: 18\n\nLancer Monument: 5\nGreat Knight Medal: 20\nWar Horse's Small Horn: 3\n\nLancer Monument: 12\nWar Horse's Small Horn: 6\nDragon's Reverse Scale: 5"
   },
+"119.1": {
+    "rarity": "5",
+    "attacks": "0101020303",
+    "maxATK": "10,995",
+    "id": "119",
+    "name": "Lartoria",
+    "servantClass": "Lancer",
+    "cost": "16",
+    "baseHP": "2,288",
+    "baseATK": "1,699",
+    "maxHP": "15,606",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1191.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=119",
+    "note": "Camelot must be completed before she becomes available as a Story Summon.\n",
+    "NP": "(Buster) Rhongomyniad\nSpear that Shines to the End of the World\nIgnore Invincible & Evade (1 turn)\nDeal heavy damage to all enemies [Level]\nIncrease own NP gauge [Overcharge]\nTarget: All Enemies / Self",
+    "alignment": "Lawful Good",
+    "desc": "The legendary King of Knights who controlled Britain, King Arthur. An IF King Arthur who, after rising as a king, made the holy spear its main weapon instead of the holy sword and governed over Britain. Having lost the growth-halt from the holy sword, she grew to a physical age fitting for a king. She became an existence closer to Divine Spirits due to using the holy spear, but since the period of use was just that of ten-odd years, her mental structure and spiritual make-up has not changed too much.",
+    "item": "Lancer Piece: 5\n\nLancer Piece: 12\nDragon Fang: 18\n\nLancer Monument: 5\nGreat Knight Medal: 20\nWar Horse's Small Horn: 3\n\nLancer Monument: 12\nWar Horse's Small Horn: 6\nDragon's Reverse Scale: 5"
+  },
   "120": {
     "rarity": "4",
     "attacks": "0102020203",
