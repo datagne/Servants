@@ -816,6 +816,25 @@
     "desc": "Originally, Lord El-Melloi II was not someone possessing the caliber and the history that would result in a Servant. However, the extremely unique circumstances of this Holy Grail War got involved and his summoning was made possible by becoming the vessel of the Heroic Spirit of China, Zhuge Liang.",
     "item": "Caster Piece: 5\n\nVoid's Dust: 15\nCaster Piece: 12\n\nEternal Gear: 5\nForbidden Page: 10\nCaster Monument: 5\n\nPhoenix Feather: 10\nEternal Gear: 10\nCaster Monument: 12"
   },
+ "037": {
+    "rarity": "5",
+    "attacks": "0102020203",
+    "maxATK": "10,598",
+    "id": "037",
+    "name": "Waver",
+    "servantClass": "Caster",
+    "cost": "16",
+    "baseHP": "2,091",
+    "baseATK": "1,637",
+    "maxHP": "14,259",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0373.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=037",
+    "note": "\n",
+    "NP": "(Arts) Unreturning Formation\nStone Sentinel Maze\nDecrease the charge of all enemies\nMedium chance to inflict Stun (1 turn) [Overcharge]\nInflict Curse (3 turns)\nDecrease DEF (3 turns) [Level]\nTarget: All Enemies",
+    "alignment": "Neutral Good",
+    "desc": "Originally, Lord El-Melloi II was not someone possessing the caliber and the history that would result in a Servant. However, the extremely unique circumstances of this Holy Grail War got involved and his summoning was made possible by becoming the vessel of the Heroic Spirit of China, Zhuge Liang.",
+    "item": "Caster Piece: 5\n\nVoid's Dust: 15\nCaster Piece: 12\n\nEternal Gear: 5\nForbidden Page: 10\nCaster Monument: 5\n\nPhoenix Feather: 10\nEternal Gear: 10\nCaster Monument: 12"
+  },
   "038": {
     "rarity": "3",
     "attacks": "0102020203",
