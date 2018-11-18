@@ -4787,7 +4787,7 @@
     "desc": "Breaker of spirits and wallets.",
     "item": "Saber Piece :5\nBerserker Piece :5\n\nSaber Piece :12\nBerserker Piece :12\n\nSaber Monument :5\nBerserker Monument :5\n\nSaber Monument :12\nBerserker Monument :12"
   },
-"222": {
+"223": {
     "rarity": "4",
     "attacks": "0101020303",
     "maxATK": "10,048",
@@ -4798,12 +4798,50 @@
     "baseHP": "1,818",
     "baseATK": "1,674",
     "maxHP": "11,362",
-    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2224.png",
-    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=222",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2231.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=223",
     "note": "N/A",
     "NP": "Moralltach\nSurging Sea of Fury B\nDeal significant damage to a single enemy.\nRemoves defensive buffs from a single enemy. (applies after damages)\nLow chance to inflict Death to a single enemy. [Overcharge]\nTargets: Single Target",
     "alignment": "Lawful Balanced",
     "desc": "Pending translation",
     "item": "Saber Piece :4\n\nSaber Piece :10\nProof of Hero :18\n\nSaber Monument :4\nGreat Knight Medal :16\nCursed Beast Gallstone :2\n\nSaber Monument :10\nCursed Beast Gallstone :4\nTearstone of Blood :6"
+  },
+"224": {
+    "rarity": "5",
+    "attacks": "0102020303",
+    "maxATK": "11,668",
+    "id": "224",
+    "name": "Sitonai",
+    "servantClass": "Alterego",
+    "cost": "16",
+    "baseHP": "2,048",
+    "baseATK": "1,803",
+    "maxHP": "13,965",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2241.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=224",
+    "note": "N/A",
+    "NP": "Optateshke Okimunpe\nHowl, My Friend, My Strength\nPowerful attack on one enemy.\nDrains 1 NP Charge on Dragon-trait enemies\nReduces the enemy's defense (3 turns) [Overcharge]\nReduces the enemy's critical chance (3 turns) [Overcharge]\nTargets: Single Target",
+    "alignment": "Chaotic Good",
+    "desc": "Pending translation",
+    "item": "Caster Piece :5\nBerserker Piece :5\n\nCaster Piece :12\nBerserker Piece :12\n\nCaster Monument :5\nBerserker Monument :5\n\nCaster Monument :12\nBerserker Monument :12"
+  },
+"225": {
+    "rarity": "4",
+    "attacks": "0102020203",
+    "maxATK": "9,538",
+    "id": "225",
+    "name": "Shuten-Douji (Caster)",
+    "servantClass": "Caster",
+    "cost": "12",
+    "baseHP": "1,764",
+    "baseATK": "1,589",
+    "maxHP": "11,025",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2251.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=225",
+    "note": "N/A",
+    "NP": "Gohou Shoujo Kuzuryuu Ousatsu\nMaiden Protector of Principles - Extermination of the Nine Headed Dragon\nPowerful attack on one enemy.\nApply 'Sure Hit' to self (1 turn)\nDeal heavy damage to one enemy.\n Inflicts poison to the enemy (5 turns) [Overcharge]\nTargets: Single Target",
+    "alignment": "Chaotic Evil",
+    "desc": "Pending translation",
+    "item": "Dharmapala's Stick :1\n\nDharmapala's Stick :1\n\nDharmapala's Stick :1\n\nDharmapala's Stick :1"
   }
 }
