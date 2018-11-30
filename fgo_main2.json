@@ -2545,6 +2545,25 @@
     "desc": "Lancelot is one of the Knights of the Round Table and a hero extolled as the greatest knight. Despite serving King Arthur, he ended up breaking with the king upon falling into an immoral love with Guinevere.",
     "item": "Saber Piece: 4\n\nSaber Piece: 10\nEternal Gear: 6\n\nSaber Monument: 4\nGreat Knight Medal: 16\nDragon Fang: 10\n\nSaber Monument: 10\nDragon Fang: 20\nDragon's Reverse Scale: 4"
   },
+"121.1": {
+    "rarity": "4",
+    "attacks": "0102020303",
+    "maxATK": "9,949",
+    "id": "121",
+    "name": "Saberlot",
+    "servantClass": "Saber",
+    "cost": "12",
+    "baseHP": "1,854",
+    "baseATK": "1,658",
+    "maxHP": "11,589",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1211.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=121",
+    "note": "\n",
+    "NP": "(Arts) Arondight Overload\nBreaking All Restraints Light of the Overloaded Lake\nIncrease Arts Card effectiveness (1 turn)\nDeal significant damage to a single enemy [Level]\nIncrease damage the target receives (5 turns) [Overcharge]\nTarget: Enemy",
+    "alignment": "Lawful Good",
+    "desc": "Lancelot is one of the Knights of the Round Table and a hero extolled as the greatest knight. Despite serving King Arthur, he ended up breaking with the king upon falling into an immoral love with Guinevere.",
+    "item": "Saber Piece: 4\n\nSaber Piece: 10\nEternal Gear: 6\n\nSaber Monument: 4\nGreat Knight Medal: 16\nDragon Fang: 10\n\nSaber Monument: 10\nDragon Fang: 20\nDragon's Reverse Scale: 4"
+  },
   "122": {
     "rarity": "4",
     "attacks": "0101020203",
