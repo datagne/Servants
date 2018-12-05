@@ -4899,6 +4899,25 @@
     "NP": "Isamashiki wa Kamen no Mono, Onyou Kenbi no Ryou-Ou Unari\nPrince of Lan Ling Song of Battle\nReduces enemy's NP guage by 1\nDecreases enemy's critical chance by 30% (3 turns)\nApply Damage cut to all allies (3 turns)\nIncreases all allies' Attack [Overcharge]\nTargets: Everyone",
     "alignment": "Lawful Good",
     "desc": "Pending translation",
-    "item": "Saber Piece :4\n\nSaber Piece :8\nProof of HEro :18\n\nSaber Monument :4\nPhoenix Feather :7\nDragon Fang :10\n\n\Saber Monument :10\nDragon Fang :20\nDragon's Reverse Scales :4"
+    "item": "Saber Piece :4\n\nSaber Piece :8\nProof of Hero :18\n\nSaber Monument :4\nPhoenix Feather :7\nDragon Fang :10\n\nSaber Monument :10\nDragon Fang :20\nDragon's Reverse Scales :4"
+  },
+"228": {
+    "rarity": "4",
+    "attacks": "0101020203",
+    "maxATK": "8,295",
+    "id": "228",
+    "name": "Qin Liangyu",
+    "servantClass": "Lancer",
+    "cost": "12",
+    "baseHP": "2,142",
+    "baseATK": "1,382",
+    "maxHP": "13,387",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_2284.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=224",
+    "note": "N/A",
+    "NP": "Unavaricious Chant of Loyalty\nThe Four Poems of the Emperor Chongzhen\nApply Defense Down on the enemy upon normal attacks (10%) (3 times, 5 turns)\nApply Buff Removal on the enemy upon critical attacks (3 times, 5 turns)\nApply a Timer, when attacked by normal attacks, lowers enemy's critical damage (10%)(3 times, 5 turns)\nIncrease Attack for self (3 turns)\nApply a Timer, when attacked by critical attacks, recovers HPs (3 times, 5 turns) (Will not apply upon receiving fatal damage) [Overcharge]\nTargets: Self",
+    "alignment": "Lawful Good",
+    "desc": "Pending translation",
+    "item": "Lancer Piece :4\n\nLancer Piece :8\nSeed of Yggdrasil :8\n\nLancer Monument :4\nSerpent Jewel :7\nPhoenix Feather :4\n\nLancer Monument :10\nPhoenix Feather :7\nClaw of Chaos :6"
   }
 }
