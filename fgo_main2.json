@@ -1994,6 +1994,25 @@
     "desc": "The individual known as the world's most prominent avenger. Popularly known as the ｢King of the Cavern｣ or the ｢Count of Monte Cristo｣. Although imprisoned on the hellish If Tower (Chateau D'If) due to a false charge derived from an unscrupulous conspiracy, he did not fell on despair thanks to a mind of steel, and the story goes that he eventually acquired the treasure of the Monte Cristo island and swooped down upon Paris-- dragging down many leading figures that reigned over France - that is, the people who once deceived him - into hell.",
     "item": "Octuplet Crystals: 10\nEvil Bone: 10\n\nSerpent Jewel: 10\nForbidden Page: 10\n\nVoid's Dust: 10\nEternal Gear: 10\n\nPhoenix Feather: 10\nHeart of the Foreign God: 10"
   },
+"096.1": {
+    "rarity": "5",
+    "attacks": "0101020303",
+    "maxATK": "12,641",
+    "id": "096",
+    "name": "Edmond Dantes",
+    "servantClass": "Avenger",
+    "cost": "16",
+    "baseHP": "1,785",
+    "baseATK": "1,953",
+    "maxHP": "12,177",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0961.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=096",
+    "note": "Limited Pickup Summon Only\n",
+    "NP": "(Quick) Enfer Chateau D'If\nTyger Tyger, Burning Bright\nDeal heavy damage to all enemies [Level]\nDecrease DEF (3 turns) [Overcharge]\nInflict Curse (5 turns) [Overcharge]\nTarget: All Enemies",
+    "alignment": "Chaotic Evil",
+    "desc": "The individual known as the world's most prominent avenger. Popularly known as the ｢King of the Cavern｣ or the ｢Count of Monte Cristo｣. Although imprisoned on the hellish If Tower (Chateau D'If) due to a false charge derived from an unscrupulous conspiracy, he did not fell on despair thanks to a mind of steel, and the story goes that he eventually acquired the treasure of the Monte Cristo island and swooped down upon Paris-- dragging down many leading figures that reigned over France - that is, the people who once deceived him - into hell.",
+    "item": "Octuplet Crystals: 10\nEvil Bone: 10\n\nSerpent Jewel: 10\nForbidden Page: 10\n\nVoid's Dust: 10\nEternal Gear: 10\n\nPhoenix Feather: 10\nHeart of the Foreign God: 10"
+  },
   "097": {
     "rarity": "5",
     "attacks": "0102020303",
